@@ -1,4 +1,5 @@
 # from PyLibrary.PyLibrary import PyLibrary
+import PyLibrary
 
 # obj = PyLibrary("f.taheri", "1234")
 # content = obj.download_file("domain1","hamid","3.txt")
