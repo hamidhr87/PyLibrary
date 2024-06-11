@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "PyLibrary",
-    version = "0.0.2",
+    version = "0.0.1",
     author = "Hamid Reza Horr",
     author_email = "hamidreza.hr87@gmail.com",
     description = "A package to use in Irisa Prime Chat Bor",
