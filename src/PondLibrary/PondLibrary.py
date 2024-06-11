@@ -3,7 +3,7 @@ import json
 import requests
 
 
-class PyLibrary:
+class PondLibrary:
     def __init__(self, username, password) -> None:
         try:
             self.__agent_url = "http://154.91.170.22:30001"
