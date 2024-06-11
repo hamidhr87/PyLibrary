@@ -4,7 +4,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name = "PyLibrary",
+    name = "pylibrary",
     version = "0.0.1",
     author = "Hamid Reza Horr",
     author_email = "hamidreza.hr87@gmail.com",
